@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8R0IQKOEeUBwXVb/rsffgAxSNaIO1iazx6DdANnfUATPGJExCUoXFl6835XUx59qogNV+qPhNiYUjKpA/a9o7Q==",
+  "dgSpecHash": "IeXnM/YFRNB1xx7OW3DeST/Iotp2Wyh2Vn/TIndSap8Qj0zPFDqu/ohQlRWGzg9VC80D/GE181J1CfRmMp9msw==",
   "success": true,
-  "projectFilePath": "c:\\N-Sec\\Projeto_NTZ\\Projeto NTZ.csproj",
+  "projectFilePath": "c:\\Users\\Netiz-S.I\\Desktop\\N-Sec Netiz\\Projeto_NTZ\\Projeto NTZ.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Netiz-S.I\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Netiz-S.I\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

@@ -4269,11 +4269,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\N-Sec\\Projeto_NTZ\\Projeto NTZ.csproj",
+      "projectUniqueName": "c:\\Users\\Netiz-S.I\\Desktop\\N-Sec Netiz\\Projeto_NTZ\\Projeto NTZ.csproj",
       "projectName": "Projeto NTZ",
-      "projectPath": "c:\\N-Sec\\Projeto_NTZ\\Projeto NTZ.csproj",
+      "projectPath": "c:\\Users\\Netiz-S.I\\Desktop\\N-Sec Netiz\\Projeto_NTZ\\Projeto NTZ.csproj",
       "packagesPath": "C:\\Users\\Netiz-S.I\\.nuget\\packages\\",
-      "outputPath": "c:\\N-Sec\\Projeto_NTZ\\obj\\",
+      "outputPath": "c:\\Users\\Netiz-S.I\\Desktop\\N-Sec Netiz\\Projeto_NTZ\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
